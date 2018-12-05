@@ -16,3 +16,33 @@
 </p>
 
 [Advent of Code](https://adventofcode.com) is an Advent calendar of small programming puzzles for a variety of skill sets and skill levels that can be solved in any programming language you like.
+
+## Advent Calendar
+
+| Day | Part 1 | Part 2 | Completed |
+|:---:|:------:|:------:|:---------:|
+| One | :star: | :star: |  :tada:   |
+| Two |        |        |           |
+| Three |        |        |           |
+| Four |        |        |           |
+| Five |        |        |           |
+| Six |        |        |           |
+| Seven |        |        |           |
+| Eight |        |        |           |
+| Nine |        |        |           |
+| Ten |        |        |           |
+| Eleven |        |        |           |
+| Twelve |        |        |           |
+| Thirteen |        |        |           |
+| Fourteen |        |        |           |
+| Fithteen |        |        |           |
+| Sixteen |        |        |           |
+| Seventeen |        |        |           |
+| Eighteen |        |        |           |
+| Nineteen |        |        |           |
+| Twenty |        |        |           |
+| Twenty One |        |        |           |
+| Twenty Two |        |        |           |
+| Twenty Three |        |        |           |
+| Twenty Four |        |        |           |
+| Twenty Five |        |        |   :christmas_tree:   |
