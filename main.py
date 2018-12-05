@@ -1,7 +1,9 @@
 from calendar.day1 import DayOne
+from calendar.day2 import DayTwo
 
 advent_calendar = [
     DayOne(),
+    DayTwo(),
 ]
 
 if __name__ == "__main__":
