@@ -22,7 +22,7 @@
 | Day | Part 1 | Part 2 | Completed |
 |:---:|:------:|:------:|:---------:|
 | One | :star: | :star: |  :tada:   |
-| Two |        |        |           |
+| Two | :star: | :star: |  :tada:   |
 | Three |        |        |           |
 | Four |        |        |           |
 | Five |        |        |           |
