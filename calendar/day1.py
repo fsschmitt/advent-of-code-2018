@@ -13,14 +13,13 @@ class DayOne(DailyChallenge):
         return sum(self.input_list)
 
     def _part2(self):
-        freq_changes = cycle(self.input_list)
-        all_freq = {0}
+        all_freq = set()
         current_freq = 0
-        for change in freq_changes:
+        for change in cycle(self.input_list):
+            all_freq.add(current_freq)
             current_freq += change
             if current_freq in all_freq:
                 return current_freq
-            all_freq.add(current_freq)
         return None
 
 
