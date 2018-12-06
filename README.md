@@ -23,7 +23,7 @@
 |:---:|:------:|:------:|:---------:|
 | One | :star: | :star: |  :tada:   |
 | Two | :star: | :star: |  :tada:   |
-| Three |        |        |           |
+| Three|:star: | :star: |  :tada:   |
 | Four |        |        |           |
 | Five |        |        |           |
 | Six |        |        |           |
